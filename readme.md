@@ -7,4 +7,4 @@
 + [Swaggystocks](https://swaggystocks.com)
 
 ### Contact
-Get in touth via johan (at) johan (dot) se
+Get in touch via johan (at) johan (dot) se
