@@ -1,5 +1,8 @@
 # WallStreetBets
 
+### Reddit
++ [WallStreetBets channel](https://www.reddit.com/r/wallstreetbets)
+
 ### Trackers
 + [Apewisdome](https://apewisdom.io/wallstreetbets)
 + [Investorbubble](https://www.investorbubble.com/wallstreetbets)
