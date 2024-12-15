@@ -8,6 +8,7 @@
 + [Investorbubble](https://www.investorbubble.com/wallstreetbets)
 + [Stockninja](https://www.stockninja.io/wallstreetbets-tracker)
 + [Swaggystocks](https://swaggystocks.com)
++ [Quiverquant](https://www.quiverquant.com/wallstreetbets)
 
 ### Articles
 + [Investopia](https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311)
