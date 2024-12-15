@@ -1,7 +1,7 @@
 # WallStreetBets
 
 ### Reddit
-+ [WallStreetBets channel](https://www.reddit.com/r/wallstreetbets)
++ [r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
 
 ### Trackers
 + [Apewisdome](https://apewisdom.io/wallstreetbets)
@@ -11,6 +11,7 @@
 
 ### Articles
 + [Investopia](https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311)
++ [Wikipedia](https://en.m.wikipedia.org/wiki/R/wallstreetbets)
 
 ### Contact
 Get in touch via johan (at) johan (dot) se
